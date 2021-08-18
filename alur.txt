@@ -1,0 +1,10 @@
+mulai dari atas dulu ya
+admin =
+1.acc order barang 
+2. melihat laporan barang dan laporan lain-lain
+note: laporan persediaan mengutakan metode average untuk harga beli dari supplier
+gudang = 
+1.melakukan pesanan -> di acc di admin
+2.melakukan input barang-> muncul di tab barang
+kasir =
+1.melakukan transaksi penjualan dan retur
